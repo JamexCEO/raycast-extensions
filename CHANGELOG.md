@@ -1,6 +1,6 @@
 # Changelog
 
-## [Unreleased]
+## v1.0.0 - Initial Release
 
 ### Added
 - Initial release of Chess.com Player Statistics extension
